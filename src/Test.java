@@ -2,6 +2,7 @@
 public class Test {
 
 	/**
+	 * just a comment to test Git!
 	 * @param args
 	 */
 	public static void main(String[] args) {
